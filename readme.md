@@ -1,6 +1,3 @@
-Nomes Dos Membros Do Grupo: 
-MATHEUS HENRIQUE PEREIRA GANGINI, LUIZ RICARDO GONZAGA, ADLER BARTLO KONESKI, RAMON MORAES POLVERINI, IGOR LEANDRO MARTINS DE SOUZA
-
 # Atividade criacao de repositorio
 
 ##  A Alemanha Na Segunda Guerra Mundial
